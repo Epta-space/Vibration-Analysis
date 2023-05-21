@@ -1,3 +1,7 @@
+
+#Criadores: Lucas Netto, Thais Schimit, Camilly Santos;
+#importando as bibliotecas do projeto LASC 2023
+
 import utime
 from machine import Pin, SPI
 import sdcard
